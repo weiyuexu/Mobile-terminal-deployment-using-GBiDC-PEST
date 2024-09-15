@@ -1,4 +1,0 @@
-The images are from the public AgriPest dataset. 
-For reference, the AgriPest dataset can be accessed at the following URL: https://github.com/liuliu66/AgriPest.
-You can also refer to the author's published paper: Wang R, Liu L, Xie C, Yang P, Li R, Zhou M. 2021. AgriPest: A large-scale domain-specific benchmark dataset for practical agricultural pest detection in the wild. Sensors, 21, 1601-1615. 
-The dataset is divided into a ratio of 8:1:1.
