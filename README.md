@@ -1,5 +1,5 @@
 # Validation data
-Images of 792 (20%) were selected from dataset-3960 as the validation data in our paper. We also provide the weight file of the YOLO-Tpest model, You can find detection results using YOLO-Tpest model here.
+Images of 792 (20%) were selected from dataset-3960 as the validation data in our paper. We also provide the weight file of the GBiDC-PEST model, You can find detection results using GBiDC-PEST model here.
 
 # Training data
 dataset-3960 contains 860 sugarcane aphid (SCA) images from sorghum, 1400 wheat mite (WM) and 1000 wheat aphid (WA) images from wheat, and 700 rice planthopper (RP) images from rice were obtained.
@@ -10,5 +10,5 @@ The dataset is divided into a ratio of 6:2:2.
 # Evaluation metrics
 The code of evaluation matrics in our paper was illustrated here, including mAP, Precision, Recall, and speed (FPS).
 
-# Video of pest detection platform based on YOLO-Tpest model
+# Video of pest detection platform based on GBiDC-PEST model
 A mobile terminal of 4 tiny pests image/video detection was built. You can find the DEMO video here.
